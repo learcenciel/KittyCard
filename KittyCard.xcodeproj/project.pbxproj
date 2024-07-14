@@ -41,7 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				66B428F52C43EF210054F5E7 /* Resources */,
-				662980DC2BF22AAD00CCC0A0 /* SegmentControl */,
+				662980DC2BF22AAD00CCC0A0 /* KittyCard */,
 				662980DB2BF22AAD00CCC0A0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,13 +54,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		662980DC2BF22AAD00CCC0A0 /* SegmentControl */ = {
+		662980DC2BF22AAD00CCC0A0 /* KittyCard */ = {
 			isa = PBXGroup;
 			children = (
 				662980EB2BF22AAE00CCC0A0 /* Info.plist */,
 				66B428F32C43EE880054F5E7 /* SampleScreen */,
 			);
-			path = SegmentControl;
+			path = KittyCard;
 			sourceTree = "<group>";
 		};
 		66B428F32C43EE880054F5E7 /* SampleScreen */ = {
@@ -126,7 +126,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 662980D52BF22AAD00CCC0A0 /* Build configuration list for PBXProject "SegmentControl" */;
+			buildConfigurationList = 662980D52BF22AAD00CCC0A0 /* Build configuration list for PBXProject "KittyCard" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -366,7 +366,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		662980D52BF22AAD00CCC0A0 /* Build configuration list for PBXProject "SegmentControl" */ = {
+		662980D52BF22AAD00CCC0A0 /* Build configuration list for PBXProject "KittyCard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				662980EC2BF22AAE00CCC0A0 /* Debug */,
